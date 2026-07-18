@@ -1,63 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="356" viewBox="0 0 1280 356" role="img" aria-labelledby="title desc">
-<title id="title">Selected and current systems</title>
-<desc id="desc">Three editorial project cards showing Prelude and two private active systems.</desc>
-<rect width="1280" height="356" rx="20" fill="#F5F2EC"/>
-<rect x="1" y="1" width="1278" height="354" rx="19" fill="none" stroke="#DED7CC"/>
-<text x="42" y="42" fill="#15130F" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">WORK / NOW</text>
-<text x="1238" y="42" text-anchor="end" fill="#81776D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.4">ONE PUBLIC BUILD · TWO ACTIVE SYSTEMS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="392" viewBox="0 0 1280 392" role="img" aria-labelledby="title desc">
+  <title id="title">Selected and current systems</title>
+  <desc id="desc">A clean workboard presenting one public project and two active private systems.</desc>
+  <rect width="1280" height="392" rx="22" fill="#F5F2EC"/>
+  <rect x="1" y="1" width="1278" height="390" rx="21" fill="none" stroke="#DED7CC"/>
+  <text x="40" y="42" fill="#15130F" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">WORK / NOW</text>
+  <text x="1240" y="42" text-anchor="end" fill="#81776D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.5">ONE PUBLIC BUILD · TWO PRIVATE SYSTEMS</text>
 
-<g transform="translate(42 74)">
-  <rect width="362" height="250" rx="16" fill="#FBFAF6" stroke="#DED7CC"/>
-  <rect x="0" y="0" width="7" height="250" rx="3.5" fill="#7E191B"/>
-  <text x="28" y="42" fill="#7E191B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2">01</text>
-  <text x="28" y="78" fill="#15130F" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="650">PRELUDE</text>
-  <text x="28" y="104" fill="#81776D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.4">PUBLIC / SELECTED</text>
-  <line x1="28" y1="124" x2="334" y2="124" stroke="#DED7CC"/>
-  <text x="28" y="151" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="12.5">AI-assisted interview and career</text>
-  <text x="28" y="170" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="12.5">training system.</text>
-  <text x="28" y="195" fill="#81776D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10">Spring Boot  ·  Vue  ·  Retrieval  ·  LLM infra</text>
-  <g transform="translate(28 214)">
-    <line x1="0" y1="12" x2="276" y2="12" stroke="#CBC3B8"/>
-    <circle cx="0" cy="12" r="4" fill="#7E191B"/>
-    <circle cx="89" cy="12" r="4" fill="#FBFAF6" stroke="#CBC3B8"/>
-    <circle cx="184" cy="12" r="4" fill="#FBFAF6" stroke="#CBC3B8"/>
-    <circle cx="276" cy="12" r="4" fill="#3C3730"/>
+  <g transform="translate(34 74)">
+    <rect width="382" height="280" rx="18" fill="#FBFAF6" stroke="#DED7CC"/>
+    <rect x="24" y="24" width="92" height="24" rx="12" fill="#7E191B"/>
+    <text x="70" y="40" text-anchor="middle" fill="#FBFAF6" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700">PUBLIC</text>
+    <text x="24" y="82" fill="#15130F" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700">Prelude</text>
+    <text x="24" y="112" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="15">AI-assisted interview and career training system.</text>
+    <text x="24" y="150" fill="#15130F" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Highlights</text>
+    <text x="24" y="176" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="14">• resume intelligence and structured reports</text>
+    <text x="24" y="198" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="14">• resilient LLM gateway and streaming flow</text>
+    <text x="24" y="220" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="14">• hybrid retrieval and observable runtime</text>
+    <text x="24" y="256" fill="#81776D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">Java · Spring Boot · Vue · TypeScript</text>
   </g>
-</g>
-<g transform="translate(438 74)">
-  <rect width="362" height="250" rx="16" fill="#FBFAF6" stroke="#DED7CC"/>
-  <rect x="0" y="0" width="7" height="250" rx="3.5" fill="#456DA4"/>
-  <text x="28" y="42" fill="#456DA4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2">02</text>
-  <text x="28" y="78" fill="#15130F" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="650">RESEARCH WORKFLOW</text>
-  <text x="28" y="104" fill="#81776D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.4">PRIVATE / ACTIVE</text>
-  <line x1="28" y1="124" x2="334" y2="124" stroke="#DED7CC"/>
-  <text x="28" y="151" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="12.5">Scientific data integration and</text>
-  <text x="28" y="170" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="12.5">literature reasoning workflow.</text>
-  <text x="28" y="195" fill="#81776D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10">Astro  ·  React  ·  FastAPI  ·  PostgreSQL</text>
-  <g transform="translate(28 214)">
-    <line x1="0" y1="12" x2="276" y2="12" stroke="#CBC3B8"/>
-    <circle cx="0" cy="12" r="4" fill="#456DA4"/>
-    <circle cx="89" cy="12" r="4" fill="#FBFAF6" stroke="#CBC3B8"/>
-    <circle cx="184" cy="12" r="4" fill="#FBFAF6" stroke="#CBC3B8"/>
-    <circle cx="276" cy="12" r="4" fill="#3C3730"/>
+
+  <g transform="translate(449 74)">
+    <rect width="382" height="280" rx="18" fill="#FBFAF6" stroke="#DED7CC"/>
+    <rect x="24" y="24" width="92" height="24" rx="12" fill="#EEEAE1" stroke="#CBC3B8"/>
+    <text x="70" y="40" text-anchor="middle" fill="#62584E" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700">PRIVATE</text>
+    <text x="24" y="82" fill="#15130F" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">AI Research Workflow</text>
+    <text x="24" y="112" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="15">Scientific-data integration and cross-document reasoning.</text>
+    <text x="24" y="150" fill="#15130F" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Current focus</text>
+    <text x="24" y="176" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="14">• literature acquisition and provenance tracking</text>
+    <text x="24" y="198" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="14">• evidence graphs and reproducible pipelines</text>
+    <text x="24" y="220" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="14">• domain contracts and workflow orchestration</text>
+    <text x="24" y="256" fill="#81776D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">Astro · React · FastAPI · PostgreSQL</text>
   </g>
-</g>
-<g transform="translate(834 74)">
-  <rect width="362" height="250" rx="16" fill="#FBFAF6" stroke="#DED7CC"/>
-  <rect x="0" y="0" width="7" height="250" rx="3.5" fill="#7E191B"/>
-  <text x="28" y="42" fill="#7E191B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2">03</text>
-  <text x="28" y="78" fill="#15130F" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="650">OPERATIONS SYSTEM</text>
-  <text x="28" y="104" fill="#81776D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.4">PRIVATE / ACTIVE</text>
-  <line x1="28" y1="124" x2="334" y2="124" stroke="#DED7CC"/>
-  <text x="28" y="151" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="12.5">Procurement, inventory and asset</text>
-  <text x="28" y="170" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="12.5">operations across organizations.</text>
-  <text x="28" y="195" fill="#81776D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10">Spring Boot  ·  Vue  ·  Docker  ·  RBAC</text>
-  <g transform="translate(28 214)">
-    <line x1="0" y1="12" x2="276" y2="12" stroke="#CBC3B8"/>
-    <circle cx="0" cy="12" r="4" fill="#7E191B"/>
-    <circle cx="89" cy="12" r="4" fill="#FBFAF6" stroke="#CBC3B8"/>
-    <circle cx="184" cy="12" r="4" fill="#FBFAF6" stroke="#CBC3B8"/>
-    <circle cx="276" cy="12" r="4" fill="#3C3730"/>
+
+  <g transform="translate(864 74)">
+    <rect width="382" height="280" rx="18" fill="#FBFAF6" stroke="#DED7CC"/>
+    <rect x="24" y="24" width="92" height="24" rx="12" fill="#EEEAE1" stroke="#CBC3B8"/>
+    <text x="70" y="40" text-anchor="middle" fill="#62584E" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="700">PRIVATE</text>
+    <text x="24" y="82" fill="#15130F" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">Enterprise Operations</text>
+    <text x="24" y="112" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="15">Multi-organization procurement and inventory product.</text>
+    <text x="24" y="150" fill="#15130F" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">Current focus</text>
+    <text x="24" y="176" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="14">• approvals, warehouse flow, and asset records</text>
+    <text x="24" y="198" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="14">• operational traceability and role boundaries</text>
+    <text x="24" y="220" fill="#3C3730" font-family="Inter, Arial, sans-serif" font-size="14">• deployable alpha with ongoing audit fixes</text>
+    <text x="24" y="256" fill="#81776D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">Spring Boot · Vue · Docker · RBAC</text>
   </g>
-</g>
 </svg>
