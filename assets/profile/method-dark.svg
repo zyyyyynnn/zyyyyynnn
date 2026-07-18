@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="158" viewBox="0 0 1280 158" role="img" aria-labelledby="title desc">
+<title id="title">Working method</title><desc id="desc">Frame, contract, build and prove.</desc>
+<rect width="1280" height="158" rx="18" fill="#0B0B0A"/>
+<rect x="1" y="1" width="1278" height="156" rx="17" fill="none" stroke="#3C3730"/>
+<line x1="80" y1="50" x2="950" y2="50" stroke="#62584E"/>
+
+<g transform="translate(72 42)">
+  <circle cx="8" cy="8" r="7" fill="#A33B3E"/>
+  <text x="30" y="13" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.6">01</text>
+  <text x="0" y="54" fill="#F5F2EC" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="650">FRAME</text>
+  <text x="0" y="79" fill="#DED7CC" font-family="Inter, Arial, sans-serif" font-size="12">Define the real problem.</text>
+</g>
+<g transform="translate(362 42)">
+  <circle cx="8" cy="8" r="7" fill="#6386B4"/>
+  <text x="30" y="13" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.6">02</text>
+  <text x="0" y="54" fill="#F5F2EC" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="650">CONTRACT</text>
+  <text x="0" y="79" fill="#DED7CC" font-family="Inter, Arial, sans-serif" font-size="12">Make boundaries explicit.</text>
+</g>
+<g transform="translate(652 42)">
+  <circle cx="8" cy="8" r="7" fill="#6386B4"/>
+  <text x="30" y="13" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.6">03</text>
+  <text x="0" y="54" fill="#F5F2EC" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="650">BUILD</text>
+  <text x="0" y="79" fill="#DED7CC" font-family="Inter, Arial, sans-serif" font-size="12">Integrate product and system.</text>
+</g>
+<g transform="translate(942 42)">
+  <circle cx="8" cy="8" r="7" fill="#A33B3E"/>
+  <text x="30" y="13" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.6">04</text>
+  <text x="0" y="54" fill="#F5F2EC" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="650">PROVE</text>
+  <text x="0" y="79" fill="#DED7CC" font-family="Inter, Arial, sans-serif" font-size="12">Verify with evidence.</text>
+</g>
+<text x="1208" y="132" text-anchor="end" fill="#AAA197" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic">clarity is a build tool.</text>
+</svg>
