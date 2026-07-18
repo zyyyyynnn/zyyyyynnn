@@ -14,9 +14,7 @@
   <a href="mailto:1974447317@qq.com"><strong>CONTACT</strong></a>
 </p>
 
-I build full-stack systems where **product intent, architecture, data, and AI capabilities stay aligned** from the first contract to the final verification.
-
-我关注的不只是功能能否运行，也包括边界是否清楚、链路是否可靠、结果是否能够被验证。
+I build full-stack systems that keep **product intent, architecture, data, and AI capabilities aligned** — from the first contract to verifiable outcomes. I care about clear boundaries, reliable execution, and evidence that a system works as claimed.
 
 <p align="center"><img src="./assets/profile/section-rule.svg" width="100%" alt=""></p>
 
