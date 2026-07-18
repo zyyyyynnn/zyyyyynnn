@@ -1,120 +1,123 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile/hero-light.svg">
-  <img src="./assets/profile/hero-light.svg" width="100%" alt="ynzhang — full-stack engineer building AI-native product systems">
+  <img src="./assets/profile/hero-light.svg" width="100%" alt="ynzhang — full-stack engineer building reliable AI product systems">
 </picture>
 
 <p align="center">
-  <a href="https://github.com/zyyyyynnn/Prelude"><strong>PRELUDE</strong></a>
+  <a href="#selected-work"><strong>SELECTED WORK</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/zyyyyynnn?tab=repositories"><strong>REPOSITORIES</strong></a>
+  <a href="#now"><strong>NOW</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#engineering-lens"><strong>ENGINEERING LENS</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/zyyyyynnn/yyyyyynnn-portfolio"><strong>PORTFOLIO</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:1974447317@qq.com"><strong>EMAIL</strong></a>
+  <a href="mailto:1974447317@qq.com"><strong>CONTACT</strong></a>
 </p>
 
-I design and build full-stack systems where **product intent, architecture, data, and AI capabilities remain aligned** from the first contract to the final verification.
+I build full-stack systems where **product intent, architecture, data, and AI capabilities stay aligned** from the first contract to the final verification.
 
 我关注的不只是功能能否运行，也包括边界是否清楚、链路是否可靠、结果是否能够被验证。
 
-## 01 / Selected work
+<br>
+
+<p><sub>01 / REPRESENTATIVE WORK</sub></p>
+
+## Selected work
 
 ### [Prelude](https://github.com/zyyyyynnn/Prelude)
 
-An evidence-driven interview and career-training system connecting resume intelligence, hybrid retrieval, simulated interviews, resilient model gateways, and iterative capability reports.
+*AI-assisted interview and career training system.*
 
-`Java 21` · `Spring Boot` · `Vue 3` · `TypeScript` · `MySQL` · `Redis` · `RabbitMQ` · `SSE` · `WebSocket` · `Docker`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zyyyyynnn/Prelude/main/docs/images/interview-chat.png" width="100%" alt="Prelude streaming interview workspace">
+</p>
 
-- Resilient LLM integration with streaming, fallback, circuit breaking, and user-managed provider credentials.
-- Keyword-and-vector hybrid retrieval with graceful degradation when embedding services are unavailable.
-- A complete training loop from resume parsing and interview sessions to structured reports and capability analysis.
-- Reproducible local environments, architecture documentation, CI gates, and observable runtime components.
+An evidence-driven system connecting resume intelligence, simulated interviews, hybrid retrieval, resilient model gateways, structured reports, and capability tracking.
 
-[Repository ↗](https://github.com/zyyyyynnn/Prelude) · [Architecture ↗](https://github.com/zyyyyynnn/Prelude/tree/main/docs) · [API ↗](https://github.com/zyyyyynnn/Prelude/blob/main/docs/api.md)
+**What it demonstrates** — full-stack product architecture, streaming AI interaction, retrieval, reliability engineering, observability, and disciplined delivery.
 
-## 02 / Current systems
+`Java 21` · `Spring Boot` · `Vue 3` · `TypeScript` · `MySQL` · `Redis`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/workboard-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/workboard-light.svg">
-  <img src="./assets/profile/workboard-light.svg" width="100%" alt="Current engineering systems">
-</picture>
+[Repository ↗](https://github.com/zyyyyynnn/Prelude) · [Architecture ↗](https://github.com/zyyyyynnn/Prelude/tree/main/docs) · [API ↗](https://github.com/zyyyyynnn/Prelude/blob/main/docs/api.md) · [More interfaces ↗](https://github.com/zyyyyynnn/Prelude#界面预览)
 
-**AI research workflow — private, active development**  
-A reproducible workflow for scientific-data integration, literature acquisition, cross-document reasoning, provenance tracking, and evidence-graph construction.
+---
 
-**Enterprise operations system — private, active development**  
-A multi-organization product covering procurement, approval flows, inventory, material usage, asset management, and operational traceability.
+### [Shit Mountain](https://github.com/zyyyyynnn/Shit_mountain)
+
+*A runnable museum of code smells, anti-patterns, and refactoring escapes.*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zyyyyynnn/Shit_mountain/main/assets/shit-mountain-hero-v2.svg" width="100%" alt="Shit Mountain — executable anti-pattern reserve">
+</p>
+
+A deliberately playful open-source project where every bad example must remain explainable, executable, and paired with a safe route back to maintainable code.
+
+**What it demonstrates** — code-review judgment, refactoring pedagogy, open-source structure, technical storytelling, and a willingness to give engineering culture a distinct voice.
+
+`Java` · `Code Review` · `Refactoring` · `Open Source`
+
+[Repository ↗](https://github.com/zyyyyynnn/Shit_mountain) · [Exhibits ↗](https://github.com/zyyyyynnn/Shit_mountain/tree/main/exhibits) · [Contributing ↗](https://github.com/zyyyyynnn/Shit_mountain/blob/main/CONTRIBUTING.md)
+
+<br>
+
+<p><sub>02 / CURRENT DIRECTION</sub></p>
+
+## Now
+
+### AI research workflow
+
+Scientific-data integration, literature acquisition, cross-document reasoning, provenance tracking, and evidence-graph construction.
+
+`PRIVATE` · `ACTIVE DEVELOPMENT`
+
+### Enterprise operations system
+
+Procurement, approval flows, inventory, material usage, asset management, operational traceability, and multi-organization boundaries.
+
+`PRIVATE` · `ALPHA`
 
 Private work is described at capability level only; implementation details remain inside their respective repositories.
 
-## 03 / Engineering focus
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p><sub>03 / HOW I THINK ABOUT SYSTEMS</sub></p>
 
-**AI application infrastructure**
+## Engineering lens
 
-Streaming responses, provider gateways, structured outputs, retrieval, embeddings, BYOK, fallback paths, and failure recovery.
+- **AI application infrastructure** — model gateways, streaming responses, retrieval, embeddings, structured outputs, BYOK, fallback paths, and failure recovery.
+- **Full-stack product systems** — frontend and backend boundaries, state, data models, authorization, workflows, and product-quality constraints.
+- **Reliability engineering** — circuit breaking, asynchronous jobs, message queues, observability, security defaults, and CI quality gates.
+- **Architecture and delivery** — contract-first design, documentation governance, containerized environments, and reproducible acceptance.
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <strong>Frame the problem → Freeze the contract → Build the system → Prove the behavior</strong>
+</p>
 
-**Full-stack product systems**
+<br>
 
-Frontend architecture, backend services, state and data models, authorization, workflow design, and product-quality boundaries.
+<p><sub>04 / WORKING TOOLBOX</sub></p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## Toolbox
 
-**Reliability engineering**
+**Product engineering**  
+`Java` · `Spring Boot` · `TypeScript` · `Vue` · `React` · `FastAPI`
 
-Circuit breaking, retries, asynchronous jobs, message queues, observability, security defaults, and CI quality gates.
+**Systems and data**  
+`MySQL` · `PostgreSQL` · `Redis` · `RabbitMQ` · `Docker` · `Prometheus`
 
-</td>
-<td width="50%" valign="top">
-
-**Architecture and delivery**
-
-PRD-to-implementation traceability, contract-first design, documentation governance, containerized environments, and reproducible acceptance.
-
-</td>
-</tr>
-</table>
-
-## 04 / Working method
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/method-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/method-light.svg">
-  <img src="./assets/profile/method-light.svg" width="100%" alt="Frame, contract, build and prove">
-</picture>
-
-I prefer systems that are explicit about what they promise, observable when they fail, and supported by evidence when they claim to work.
-
-## 05 / Stack
-
-**Languages**  
-`Java` · `TypeScript` · `Python` · `SQL`
-
-**Frontend**  
-`Vue` · `React` · `Astro` · `Vite`
-
-**Backend and data**  
-`Spring Boot` · `FastAPI` · `MySQL` · `PostgreSQL` · `Redis` · `RabbitMQ`
-
-**Systems**  
-`Docker` · `REST` · `SSE` · `WebSocket` · `Prometheus` · `CI/CD`
-
-**AI engineering**  
-`LLM gateways` · `Retrieval` · `Embeddings` · `Structured outputs` · `Evaluation workflows`
+**AI application engineering**  
+`LLM gateways` · `Streaming` · `Retrieval` · `Embeddings` · `Structured outputs`
 
 ---
 
 <p align="center">
-  <sub>Structure before ornament. Evidence before claims.</sub>
+  <a href="https://github.com/zyyyyynnn/yyyyyynnn-portfolio">Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/zyyyyynnn?tab=repositories">All repositories</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:1974447317@qq.com">Email</a>
 </p>
+
+<p align="center"><sub>Structure before ornament. Evidence before claims.</sub></p>
