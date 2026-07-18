@@ -1,55 +1,60 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-<title id="title">ynzhang — full-stack engineer</title>
-<desc id="desc">Editorial engineering profile banner using warm neutral colors and an abstract system flow.</desc>
-<defs>
-  <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#141311" stop-opacity=".92"/>
-    <stop offset="1" stop-color="#0B0B0A" stop-opacity=".38"/>
-  </linearGradient>
-  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-    <path d="M24 0H0V24" fill="none" stroke="#3C3730" stroke-width="1" opacity=".42"/>
-  </pattern>
-  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-    <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#F5F2EC" flood-opacity=".06"/>
-  </filter>
-</defs>
-<rect width="1280" height="360" rx="22" fill="#0B0B0A"/>
-<rect x="1" y="1" width="1278" height="358" rx="21" fill="none" stroke="#3C3730"/>
-<path d="M64 38V322" stroke="#62584E" stroke-width="1"/>
-<circle cx="64" cy="58" r="5" fill="#A33B3E"/>
-<circle cx="64" cy="302" r="5" fill="#6386B4"/>
-<text x="86" y="61" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2.2">PROFILE / 2026</text>
-<text x="86" y="114" fill="#F5F2EC" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-style="italic" letter-spacing="-3">ynzhang</text>
-<circle cx="399" cy="97" r="6" fill="#A33B3E"/>
-<text x="88" y="159" fill="#DED7CC" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="500">Full-stack engineer building AI-native product systems.</text>
-<text x="88" y="194" fill="#AAA197" font-family="Inter, Arial, sans-serif" font-size="15">Product intent, architecture, data and models — designed as one coherent system.</text>
-<g transform="translate(88 240)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.2">
-  <rect x="0" y="0" width="146" height="34" rx="17" fill="#141311" stroke="#3C3730"/>
-  <text x="73" y="22" text-anchor="middle" fill="#DED7CC">AI SYSTEMS</text>
-  <rect x="158" y="0" width="176" height="34" rx="17" fill="#141311" stroke="#3C3730"/>
-  <text x="246" y="22" text-anchor="middle" fill="#DED7CC">PRODUCT ENGINEERING</text>
-  <rect x="346" y="0" width="164" height="34" rx="17" fill="#141311" stroke="#3C3730"/>
-  <text x="428" y="22" text-anchor="middle" fill="#DED7CC">RELIABILITY</text>
-</g>
-<g transform="translate(725 42)" filter="url(#shadow)">
-  <rect width="493" height="276" rx="18" fill="url(#wash)" stroke="#3C3730"/>
-  <rect x="18" y="18" width="457" height="240" rx="11" fill="url(#grid)" stroke="#3C3730"/>
-  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.4" fill="#AAA197">
-    <text x="36" y="43">SYSTEM / SIGNAL MAP</text>
-    <text x="374" y="43">LIVE 04/04</text>
+  <title id="title">ynzhang — full-stack engineer</title>
+  <desc id="desc">Editorial engineering profile banner in a restrained dark neutral palette.</desc>
+  <rect width="1280" height="360" rx="24" fill="#0B0B0A"/>
+  <rect x="1" y="1" width="1278" height="358" rx="23" fill="none" stroke="#3C3730"/>
+
+  <line x1="56" y1="70" x2="170" y2="70" stroke="#A33B3E" stroke-width="2"/>
+  <text x="56" y="58" fill="#AAA197" font-family="Inter, Arial, sans-serif" font-size="13" letter-spacing="2.2">PROFILE / ENGINEERING</text>
+
+  <text x="56" y="122" fill="#F5F2EC" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="600">YNZHANG</text>
+  <text x="58" y="148" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="2">@ZYYYYYNNN</text>
+
+  <text x="56" y="204" fill="#F5F2EC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="650">Full-stack engineer building</text>
+  <text x="56" y="244" fill="#F5F2EC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="650">AI-native product systems.</text>
+
+  <text x="58" y="288" fill="#CBC3B8" font-family="Inter, Arial, sans-serif" font-size="16">Architecture · Data workflows · Reliable application delivery</text>
+
+  <g transform="translate(720 54)">
+    <rect x="0" y="0" width="504" height="252" rx="18" fill="#141311" stroke="#3C3730"/>
+    <text x="28" y="34" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.6">SYSTEM VIEW</text>
+
+    <g font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">
+      <rect x="28" y="70" width="96" height="34" rx="17" fill="#1A1917" stroke="#62584E"/>
+      <text x="76" y="92" text-anchor="middle" fill="#F5F2EC">INPUT</text>
+
+      <rect x="168" y="70" width="116" height="34" rx="17" fill="#1A1917" stroke="#62584E"/>
+      <text x="226" y="92" text-anchor="middle" fill="#F5F2EC">CONTRACT</text>
+
+      <rect x="328" y="70" width="90" height="34" rx="17" fill="#1A1917" stroke="#62584E"/>
+      <text x="373" y="92" text-anchor="middle" fill="#F5F2EC">BUILD</text>
+
+      <rect x="28" y="170" width="112" height="34" rx="17" fill="#1A1917" stroke="#62584E"/>
+      <text x="84" y="192" text-anchor="middle" fill="#F5F2EC">OBSERVE</text>
+
+      <rect x="184" y="170" width="96" height="34" rx="17" fill="#1A1917" stroke="#62584E"/>
+      <text x="232" y="192" text-anchor="middle" fill="#F5F2EC">VERIFY</text>
+
+      <rect x="324" y="170" width="112" height="34" rx="17" fill="#A33B3E"/>
+      <text x="380" y="192" text-anchor="middle" fill="#FBFAF6">SHIP</text>
+    </g>
+
+    <g stroke="#62584E" stroke-width="2.2" fill="none" stroke-linecap="round">
+      <path d="M124 87 H168"/>
+      <path d="M284 87 H328"/>
+      <path d="M84 104 V138 H84"/>
+      <path d="M232 104 V138 H232"/>
+      <path d="M373 104 V138 H380"/>
+      <path d="M84 138 H232"/>
+      <path d="M232 138 H380"/>
+    </g>
+
+    <g fill="#A33B3E">
+      <circle cx="84" cy="138" r="5"/>
+      <circle cx="232" cy="138" r="5"/>
+      <circle cx="380" cy="138" r="5"/>
+    </g>
+
+    <text x="28" y="232" fill="#AAA197" font-family="Inter, Arial, sans-serif" font-size="14">Structure before ornament. Evidence before claims.</text>
   </g>
-  <path d="M66 188 C150 92 237 218 319 116 S428 148 447 73" fill="none" stroke="#DED7CC" stroke-width="1.5" opacity=".72"/>
-  <path d="M66 188 L151 136 L233 182 L319 116 L398 151 L447 73" fill="none" stroke="#6386B4" stroke-width="2.2" opacity=".88"/>
-  <g stroke="#62584E" fill="#141311" stroke-width="1.5">
-    <circle cx="66" cy="188" r="8"/><circle cx="151" cy="136" r="8"/><circle cx="233" cy="182" r="8"/><circle cx="319" cy="116" r="8"/><circle cx="398" cy="151" r="8"/><circle cx="447" cy="73" r="8"/>
-  </g>
-  <circle cx="66" cy="188" r="4" fill="#A33B3E"/>
-  <circle cx="319" cy="116" r="4" fill="#6386B4"/>
-  <circle cx="447" cy="73" r="4" fill="#A33B3E"/>
-  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9" letter-spacing="1.1" fill="#AAA197">
-    <text x="47" y="211">SCOPE</text><text x="126" y="121">CONTRACT</text><text x="214" y="205">BUILD</text><text x="302" y="99">MODEL</text><text x="381" y="174">VERIFY</text><text x="429" y="58">SHIP</text>
-  </g>
-  <line x1="36" y1="230" x2="457" y2="230" stroke="#3C3730"/>
-  <text x="36" y="248" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9" letter-spacing="1.1">STRUCTURE BEFORE ORNAMENT / EVIDENCE BEFORE CLAIMS</text>
-</g>
 </svg>
