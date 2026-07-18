@@ -23,13 +23,11 @@ I build full-stack systems where **product intent, architecture, data, and AI ca
 <a id="selected-work"></a>
 ## 01 / Selected work
 
-<p>
-  <img src="./assets/profile/mark-prelude.svg" width="48" align="left" alt="Prelude project mark">
-  <strong><a href="https://github.com/zyyyyynnn/Prelude">Prelude</a></strong><br>
-  <sub>PUBLIC · PRODUCT SYSTEM</sub><br>
-  <em>AI-assisted interview and career training system.</em>
-</p>
-<br clear="left">
+### [Prelude](https://github.com/zyyyyynnn/Prelude)
+
+<sub>PUBLIC · PRODUCT SYSTEM</sub>
+
+*AI-assisted interview and career training system.*
 
 An evidence-driven system connecting resume intelligence, simulated interviews, hybrid retrieval, resilient model gateways, structured reports, and capability tracking.
 
@@ -41,13 +39,11 @@ An evidence-driven system connecting resume intelligence, simulated interviews, 
 
 ---
 
-<p>
-  <img src="./assets/profile/mark-shit-mountain.svg" width="48" align="left" alt="Shit Mountain project mark">
-  <strong><a href="https://github.com/zyyyyynnn/Shit_mountain">Shit Mountain</a></strong><br>
-  <sub>PUBLIC · OPEN SOURCE</sub><br>
-  <em>A runnable museum of code smells, anti-patterns, and refactoring escapes.</em>
-</p>
-<br clear="left">
+### [Shit Mountain](https://github.com/zyyyyynnn/Shit_mountain)
+
+<sub>PUBLIC · OPEN SOURCE</sub>
+
+*A runnable museum of code smells, anti-patterns, and refactoring escapes.*
 
 A deliberately playful project where every bad example must remain explainable, executable, and paired with a safe route back to maintainable code.
 
