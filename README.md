@@ -18,15 +18,18 @@ I build full-stack systems where **product intent, architecture, data, and AI ca
 
 我关注的不只是功能能否运行，也包括边界是否清楚、链路是否可靠、结果是否能够被验证。
 
-<br>
+<p align="center"><img src="./assets/profile/section-rule.svg" width="100%" alt=""></p>
 
-<p><sub>01 / REPRESENTATIVE WORK</sub></p>
+<a id="selected-work"></a>
+## 01 / Selected work
 
-## Selected work
-
-### [Prelude](https://github.com/zyyyyynnn/Prelude)
-
-*AI-assisted interview and career training system.*
+<p>
+  <img src="./assets/profile/mark-prelude.svg" width="48" align="left" alt="Prelude project mark">
+  <strong><a href="https://github.com/zyyyyynnn/Prelude">Prelude</a></strong><br>
+  <sub>PUBLIC · PRODUCT SYSTEM</sub><br>
+  <em>AI-assisted interview and career training system.</em>
+</p>
+<br clear="left">
 
 An evidence-driven system connecting resume intelligence, simulated interviews, hybrid retrieval, resilient model gateways, structured reports, and capability tracking.
 
@@ -34,62 +37,86 @@ An evidence-driven system connecting resume intelligence, simulated interviews, 
 
 `Java 21` · `Spring Boot` · `Vue 3` · `TypeScript` · `MySQL` · `Redis`
 
-[Repository ↗](https://github.com/zyyyyynnn/Prelude) · [Architecture ↗](https://github.com/zyyyyynnn/Prelude/tree/main/docs) · [API ↗](https://github.com/zyyyyynnn/Prelude/blob/main/docs/api.md) · [More interfaces ↗](https://github.com/zyyyyynnn/Prelude#界面预览)
+[Repository ↗](https://github.com/zyyyyynnn/Prelude) · [Architecture ↗](https://github.com/zyyyyynnn/Prelude/tree/main/docs) · [API ↗](https://github.com/zyyyyynnn/Prelude/blob/main/docs/api.md) · [Interfaces ↗](https://github.com/zyyyyynnn/Prelude#界面预览)
 
 ---
 
-### [Shit Mountain](https://github.com/zyyyyynnn/Shit_mountain)
+<p>
+  <img src="./assets/profile/mark-shit-mountain.svg" width="48" align="left" alt="Shit Mountain project mark">
+  <strong><a href="https://github.com/zyyyyynnn/Shit_mountain">Shit Mountain</a></strong><br>
+  <sub>PUBLIC · OPEN SOURCE</sub><br>
+  <em>A runnable museum of code smells, anti-patterns, and refactoring escapes.</em>
+</p>
+<br clear="left">
 
-*A runnable museum of code smells, anti-patterns, and refactoring escapes.*
+A deliberately playful project where every bad example must remain explainable, executable, and paired with a safe route back to maintainable code.
 
-A deliberately playful open-source project where every bad example must remain explainable, executable, and paired with a safe route back to maintainable code.
-
-**What it demonstrates** — code-review judgment, refactoring pedagogy, open-source structure, technical storytelling, and a willingness to give engineering culture a distinct voice.
+**What it demonstrates** — code-review judgment, refactoring pedagogy, open-source structure, technical storytelling, and a distinct voice for engineering culture.
 
 `Java` · `Code Review` · `Refactoring` · `Open Source`
 
 [Repository ↗](https://github.com/zyyyyynnn/Shit_mountain) · [Exhibits ↗](https://github.com/zyyyyynnn/Shit_mountain/tree/main/exhibits) · [Contributing ↗](https://github.com/zyyyyynnn/Shit_mountain/blob/main/CONTRIBUTING.md)
 
-<br>
+<p align="center"><img src="./assets/profile/section-rule.svg" width="100%" alt=""></p>
 
-<p><sub>02 / CURRENT DIRECTION</sub></p>
+<a id="now"></a>
+## 02 / Now
 
-## Now
+> **AI research workflow** · `PRIVATE · ACTIVE`  
+> Scientific-data integration, literature acquisition, cross-document reasoning, provenance tracking, and evidence-graph construction.
 
-### AI research workflow
+> **Enterprise operations system** · `PRIVATE · ALPHA`  
+> Procurement, approval flows, inventory, asset management, operational traceability, and multi-organization boundaries.
 
-Scientific-data integration, literature acquisition, cross-document reasoning, provenance tracking, and evidence-graph construction.
+<sub>Private work is described at capability level only; implementation details remain inside their respective repositories.</sub>
 
-`PRIVATE` · `ACTIVE DEVELOPMENT`
+<p align="center"><img src="./assets/profile/section-rule.svg" width="100%" alt=""></p>
 
-### Enterprise operations system
+<a id="engineering-lens"></a>
+## 03 / Engineering lens
 
-Procurement, approval flows, inventory, material usage, asset management, operational traceability, and multi-organization boundaries.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`PRIVATE` · `ALPHA`
+**01 · AI application infrastructure**
 
-Private work is described at capability level only; implementation details remain inside their respective repositories.
+Model gateways, streaming responses, retrieval, embeddings, structured outputs, BYOK, fallback paths, and failure recovery.
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-<p><sub>03 / HOW I THINK ABOUT SYSTEMS</sub></p>
+**02 · Full-stack product systems**
 
-## Engineering lens
+Frontend and backend boundaries, state, data models, authorization, workflows, and product-quality constraints.
 
-- **AI application infrastructure** — model gateways, streaming responses, retrieval, embeddings, structured outputs, BYOK, fallback paths, and failure recovery.
-- **Full-stack product systems** — frontend and backend boundaries, state, data models, authorization, workflows, and product-quality constraints.
-- **Reliability engineering** — circuit breaking, asynchronous jobs, message queues, observability, security defaults, and CI quality gates.
-- **Architecture and delivery** — contract-first design, documentation governance, containerized environments, and reproducible acceptance.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 · Reliability engineering**
+
+Circuit breaking, asynchronous jobs, message queues, observability, security defaults, and CI quality gates.
+
+</td>
+<td width="50%" valign="top">
+
+**04 · Architecture and delivery**
+
+Contract-first design, documentation governance, containerized environments, and reproducible acceptance.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <strong>Frame the problem → Freeze the contract → Build the system → Prove the behavior</strong>
 </p>
 
-<br>
+<p align="center"><img src="./assets/profile/section-rule.svg" width="100%" alt=""></p>
 
-<p><sub>04 / WORKING TOOLBOX</sub></p>
-
-## Toolbox
+## 04 / Toolbox
 
 **Product engineering**  
 `Java` · `Spring Boot` · `TypeScript` · `Vue` · `React` · `FastAPI`
@@ -100,7 +127,9 @@ Private work is described at capability level only; implementation details remai
 **AI application engineering**  
 `LLM gateways` · `Streaming` · `Retrieval` · `Embeddings` · `Structured outputs`
 
----
+## Elsewhere
+
+The portfolio holds visual work and personal notes. The repositories hold source code, experiments, and ongoing systems.
 
 <p align="center">
   <a href="https://github.com/zyyyyynnn/yyyyyynnn-portfolio">Portfolio</a>
@@ -110,4 +139,6 @@ Private work is described at capability level only; implementation details remai
   <a href="mailto:1974447317@qq.com">Email</a>
 </p>
 
-<p align="center"><sub>Structure before ornament. Evidence before claims.</sub></p>
+<p align="center">
+  <img src="./assets/profile/signature.svg" width="300" alt="zyyyyynnn — structure before ornament, evidence before claims">
+</p>
