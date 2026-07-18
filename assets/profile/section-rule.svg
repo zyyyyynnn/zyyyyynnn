@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="Decorative section divider">
+  <rect x="0" y="10" width="8" height="8" rx="1" fill="#7E191B"/>
+  <path d="M24 14H1128" stroke="#DED7CC" stroke-width="1"/>
+  <g stroke="#CBC3B8" stroke-width="1">
+    <path d="M1148 8V20"/>
+    <path d="M1162 10V18"/>
+    <path d="M1176 8V20"/>
+    <path d="M1190 10V18"/>
+  </g>
+</svg>
