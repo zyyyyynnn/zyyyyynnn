@@ -30,10 +30,6 @@ I build full-stack systems where **product intent, architecture, data, and AI ca
 
 *AI-assisted interview and career training system.*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zyyyyynnn/Prelude/main/docs/images/interview-chat.png" width="100%" alt="Prelude streaming interview workspace">
-</p>
-
 An evidence-driven system connecting resume intelligence, simulated interviews, hybrid retrieval, resilient model gateways, structured reports, and capability tracking.
 
 **What it demonstrates** — full-stack product architecture, streaming AI interaction, retrieval, reliability engineering, observability, and disciplined delivery.
@@ -47,10 +43,6 @@ An evidence-driven system connecting resume intelligence, simulated interviews, 
 ### [Shit Mountain](https://github.com/zyyyyynnn/Shit_mountain)
 
 *A runnable museum of code smells, anti-patterns, and refactoring escapes.*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zyyyyynnn/Shit_mountain/main/assets/shit-mountain-hero-v2.svg" width="100%" alt="Shit Mountain — executable anti-pattern reserve">
-</p>
 
 A deliberately playful open-source project where every bad example must remain explainable, executable, and paired with a safe route back to maintainable code.
 
