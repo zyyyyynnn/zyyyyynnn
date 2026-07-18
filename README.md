@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/hero-light.svg">
+<p align="center">
   <img src="./assets/profile/hero-light.svg" width="100%" alt="ynzhang — full-stack engineer building reliable AI product systems">
-</picture>
+</p>
 
 <p align="center">
   <a href="#selected-work"><strong>SELECTED WORK</strong></a>
