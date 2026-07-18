@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="356" viewBox="0 0 1280 356" role="img" aria-labelledby="title desc">
+<title id="title">Selected and current systems</title>
+<desc id="desc">Three editorial project cards showing Prelude and two private active systems.</desc>
+<rect width="1280" height="356" rx="20" fill="#0B0B0A"/>
+<rect x="1" y="1" width="1278" height="354" rx="19" fill="none" stroke="#3C3730"/>
+<text x="42" y="42" fill="#F5F2EC" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="650">WORK / NOW</text>
+<text x="1238" y="42" text-anchor="end" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.4">ONE PUBLIC BUILD · TWO ACTIVE SYSTEMS</text>
+
+<g transform="translate(42 74)">
+  <rect width="362" height="250" rx="16" fill="#141311" stroke="#3C3730"/>
+  <rect x="0" y="0" width="7" height="250" rx="3.5" fill="#A33B3E"/>
+  <text x="28" y="42" fill="#A33B3E" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2">01</text>
+  <text x="28" y="78" fill="#F5F2EC" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="650">PRELUDE</text>
+  <text x="28" y="104" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.4">PUBLIC / SELECTED</text>
+  <line x1="28" y1="124" x2="334" y2="124" stroke="#3C3730"/>
+  <text x="28" y="151" fill="#DED7CC" font-family="Inter, Arial, sans-serif" font-size="12.5">AI-assisted interview and career</text>
+  <text x="28" y="170" fill="#DED7CC" font-family="Inter, Arial, sans-serif" font-size="12.5">training system.</text>
+  <text x="28" y="195" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10">Spring Boot  ·  Vue  ·  Retrieval  ·  LLM infra</text>
+  <g transform="translate(28 214)">
+    <line x1="0" y1="12" x2="276" y2="12" stroke="#62584E"/>
+    <circle cx="0" cy="12" r="4" fill="#A33B3E"/>
+    <circle cx="89" cy="12" r="4" fill="#141311" stroke="#62584E"/>
+    <circle cx="184" cy="12" r="4" fill="#141311" stroke="#62584E"/>
+    <circle cx="276" cy="12" r="4" fill="#DED7CC"/>
+  </g>
+</g>
+<g transform="translate(438 74)">
+  <rect width="362" height="250" rx="16" fill="#141311" stroke="#3C3730"/>
+  <rect x="0" y="0" width="7" height="250" rx="3.5" fill="#6386B4"/>
+  <text x="28" y="42" fill="#6386B4" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2">02</text>
+  <text x="28" y="78" fill="#F5F2EC" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="650">RESEARCH WORKFLOW</text>
+  <text x="28" y="104" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.4">PRIVATE / ACTIVE</text>
+  <line x1="28" y1="124" x2="334" y2="124" stroke="#3C3730"/>
+  <text x="28" y="151" fill="#DED7CC" font-family="Inter, Arial, sans-serif" font-size="12.5">Scientific data integration and</text>
+  <text x="28" y="170" fill="#DED7CC" font-family="Inter, Arial, sans-serif" font-size="12.5">literature reasoning workflow.</text>
+  <text x="28" y="195" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10">Astro  ·  React  ·  FastAPI  ·  PostgreSQL</text>
+  <g transform="translate(28 214)">
+    <line x1="0" y1="12" x2="276" y2="12" stroke="#62584E"/>
+    <circle cx="0" cy="12" r="4" fill="#6386B4"/>
+    <circle cx="89" cy="12" r="4" fill="#141311" stroke="#62584E"/>
+    <circle cx="184" cy="12" r="4" fill="#141311" stroke="#62584E"/>
+    <circle cx="276" cy="12" r="4" fill="#DED7CC"/>
+  </g>
+</g>
+<g transform="translate(834 74)">
+  <rect width="362" height="250" rx="16" fill="#141311" stroke="#3C3730"/>
+  <rect x="0" y="0" width="7" height="250" rx="3.5" fill="#A33B3E"/>
+  <text x="28" y="42" fill="#A33B3E" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2">03</text>
+  <text x="28" y="78" fill="#F5F2EC" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="650">OPERATIONS SYSTEM</text>
+  <text x="28" y="104" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.4">PRIVATE / ACTIVE</text>
+  <line x1="28" y1="124" x2="334" y2="124" stroke="#3C3730"/>
+  <text x="28" y="151" fill="#DED7CC" font-family="Inter, Arial, sans-serif" font-size="12.5">Procurement, inventory and asset</text>
+  <text x="28" y="170" fill="#DED7CC" font-family="Inter, Arial, sans-serif" font-size="12.5">operations across organizations.</text>
+  <text x="28" y="195" fill="#AAA197" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10">Spring Boot  ·  Vue  ·  Docker  ·  RBAC</text>
+  <g transform="translate(28 214)">
+    <line x1="0" y1="12" x2="276" y2="12" stroke="#62584E"/>
+    <circle cx="0" cy="12" r="4" fill="#A33B3E"/>
+    <circle cx="89" cy="12" r="4" fill="#141311" stroke="#62584E"/>
+    <circle cx="184" cy="12" r="4" fill="#141311" stroke="#62584E"/>
+    <circle cx="276" cy="12" r="4" fill="#DED7CC"/>
+  </g>
+</g>
+</svg>
