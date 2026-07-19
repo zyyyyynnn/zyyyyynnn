@@ -9,10 +9,8 @@
     <rect x="0" y="34" width="54" height="5" rx="2.5" fill="#7E191B"/>
 
     <text x="0" y="126" fill="#15130F" font-size="84" font-weight="820" letter-spacing="-4">YNZHANG</text>
-    <text x="2" y="176" fill="#15130F" font-size="27" font-weight="650">Building reliable AI product systems</text>
-    <text x="2" y="211" fill="#15130F" font-size="27" font-weight="650">with clear boundaries and evidence.</text>
 
-    <text x="2" y="242" fill="#81776D" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="600" letter-spacing="1.5">PRODUCT · ARCHITECTURE · DATA · AI</text>
+    <text x="2" y="236" fill="#81776D" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="600" letter-spacing="1.5">PRODUCT · ARCHITECTURE · DATA · AI</text>
   </g>
 
   <path d="M754 40V246" stroke="#DED7CC" stroke-width="1"/>
