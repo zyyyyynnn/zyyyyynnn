@@ -10,7 +10,7 @@
 
     <text x="0" y="126" fill="#15130F" font-size="84" font-weight="820" letter-spacing="-4">YNZHANG</text>
 
-    <text x="2" y="236" fill="#81776D" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="600" letter-spacing="1.5">PRODUCT · ARCHITECTURE · DATA · AI</text>
+    <text x="2" y="210" fill="#81776D" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="600" letter-spacing="1.5">PRODUCT · ARCHITECTURE · DATA · AI</text>
   </g>
 
   <path d="M754 40V246" stroke="#DED7CC" stroke-width="1"/>
