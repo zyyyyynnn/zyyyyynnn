@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile/hero.jpg" width="100%" alt="ynzhang">
+  <img src="./assets/profile/hero.webp" width="100%" alt="ynzhang">
 </p>
 
 Building software around AI, data, and research.
