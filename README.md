@@ -4,35 +4,20 @@
 
 ### Building software around AI, data, and research.
 
-I work on systems where product intent, data, and AI behavior need to stay aligned — from application boundaries and workflows to research-oriented tooling.
+Most of my work is about turning ambiguous problems into explicit systems — with clear boundaries, inspectable workflows, traceable data, and behavior that can be verified.
 
-> **Clear boundaries. Reliable behavior. Verifiable outcomes.**
->
-> I prefer systems that remain understandable as they grow.
+> **Clear boundaries. Observable behavior. Verifiable outcomes.**
 
 ---
 
 <sub>AREAS OF WORK</sub>
 
-**Software systems**  
-Application architecture, module boundaries, state and data flow, workflows, and reliable execution.
-
-**AI applications**  
-Model integration, structured interactions, tool-oriented workflows, and behavior that can be inspected rather than assumed.
-
-**Research tooling**  
-Scientific data integration, literature workflows, provenance, and evidence-oriented reasoning.
+**Software systems** — Application architecture, module boundaries, workflows, state, and data flow.  
+**AI applications** — Model integration, tool use, structured outputs, and inspectable application behavior.  
+**Research tooling** — Scientific data, literature workflows, provenance, and evidence-backed reasoning.
 
 ---
 
-<sub>WORKING PRINCIPLES</sub>
+<sub>HOW I WORK</sub>
 
-`Clarity over cleverness` · `Boundaries over patches` · `Evidence over claims`
-
-Small interfaces, explicit responsibilities, mature building blocks, and the minimum complexity required by the problem.
-
----
-
-<sub>CURRENT INTERESTS</sub>
-
-`AI systems` · `Tool use` · `Research workflows` · `Software architecture`
+I prefer explicit contracts, small interfaces, mature building blocks, and the minimum architecture required by the real constraint. Tests should protect behavior that matters, not incidental implementation details.
